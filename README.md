@@ -3,7 +3,8 @@ Module 11 Javascript
 
 ## UFOs Overview of Project:
 
-### Dana has already been provided with a webpage that dispalys an image with a header of 'The Truth is Out There' as well as a filter on date as shown below. She is very pleased and would like to add additional filters.  We will need to do some additional filtering as asked to do some additional analysis from what has already been delivered: 
+### Dana has already been provided with a webpage
+that dispalys an image with a header of 'The Truth is Out There' as well as a filter on date as shown below. She is very pleased and would like to add additional filters.  We will need to do some additional filtering as asked to do some additional analysis from what has already been delivered: 
 
 
 ## Additional filters requested:
