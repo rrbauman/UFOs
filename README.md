@@ -3,8 +3,9 @@ Module 11 Javascript
 
 ## UFOs Overview of Project:
 
-### Dana has already been provided with a webpage
-that dispalys an image with a header of 'The Truth is Out There' as well as a filter on date as shown below. She is very pleased and would like to add additional filters.  We will need to do some additional filtering as asked to do some additional analysis from what has already been delivered: 
+### Dana has been provided with a webpage but would like some additional functionality: 
+The current webpage dispalys an image with a header of 'The Truth is Out There' and then an additional section providing information about the webpate.  Currently the page allows for a filter on date as shown below. While Dana is very pleased, she would like to add additional filters.  Therefore, we will need to do some additional filtering from what has already been delivered: 
+
 ![UFOs](./dateonly.png)
 
 ## Additional filters requested:
