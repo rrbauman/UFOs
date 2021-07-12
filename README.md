@@ -21,11 +21,12 @@ shape = Enter Shape (** added filter)
 ![UFOs](./5filters.png)
 
 #### Here is how one may now do a filter, you don't necessarily need to fill in all of the filters, but you do need to ensure you use the exact same formattting.
-This is a screen shot of how to filter for a city: simply add in 'benton' and press enter and you should see the below results:
+This is a screen shot of how to filter for a city, simply add in 'benton' and press enter and you should see the below results:
 ![UFOs](./cityfilter.png)
 
-#### And here is how you could add 
+or to do a filter on Date and Country, fill in as shown below:
 
+![UFOs](./datecountry.png)
 
 1) When you look 
 2) 
