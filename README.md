@@ -9,17 +9,16 @@ The current webpage dispalys an image with a header of 'The Truth is Out There' 
 ![UFOs](./dateonly.png)
 
 ## Additional filters requested:
-Dana’s webpage and dynamic table are working as intended, but she’d like to provide a more in-depth analysis of UFO sightings by allowing users to filter for multiple criteria at the same time. In addition to the date, you’ll add table filters for the city, state, country, and shape.
+Dana’s webpage and dynamic table are working as intended, but she’d like to provide a more in-depth analysis of UFO sightings by allowing users to filter for multiple criteria at the same time. In addition to the date, Dana requested the following to be added to the table filters: city, state, country, and shape.
 
-### These filters were added, as requested and shown in screen shot:
-date = Enter Date
-city = Enter City
-state = Enter State
-country = Enter Country
-shape = Enter Shape
+### These are all available filters:
+date = Enter Date (** existing filter)
+city = Enter City (** added filter)
+state = Enter State (** added filter)
+country = Enter Country (** added filter)
+shape = Enter Shape (** added filter)
 
-
-
+![UFOs](./5filters.png)
 
 1) When you look at June vs December mean temperature, it isn't such a large difference, only just about 4 degrees.  But this doesn't seem to be a measure of the day to day changes in temp and those seasons:
 
