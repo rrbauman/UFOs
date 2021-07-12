@@ -20,7 +20,7 @@ shape = Enter Shape (** added filter)
 
 ![UFOs](./5filters.png)
 
-#### Here is how one may now do a filter, you don't necessarily need to fill in all of the filters, but you do need to ensure you use the exact same formattting.
+#### Here is how one may now do a filter, you don't necessarily need to fill in all of the filters, but you do need to ensure you use the exact same formattting:
 This is a screen shot of how to filter for a city, simply add in 'benton' and press enter and you should see the below results:
 ![UFOs](./cityfilter.png)
 
@@ -28,20 +28,14 @@ or to do a filter on Date and Country, fill in as shown below:
 
 ![UFOs](./datecountry.png)
 
-1) When you look 
-2) 
-3) at June vs December mean temperature, it isn't such a large difference, only just about 4 degrees.  But this doesn't seem to be a measure of the day to day changes in temp and those seasons:
-
-![surfs_up](./junetemp.png)
-![surfs_up](./dectemp.png)
-
-2) In looking at the minimum vs the maximum temperatures we can see a bit more revealing information:
-The minimum temp in June is 64 F while in Dec it is a chilly 56! We would need to see about wetsuits for those chillier days.
-The maximum temp doesn't show such a wide difference in temperature at 86 for June and 83 for December.
-
-3) Another interesting statistic is the 25%, 50% and 75% temperature differences. This leads us back to point 1 with the 4 degree difference, which isn't so bad. This makes me wonder about the other statistics for weather that make a big difference, rain!
-
 ## UFOs Analysis Summary:
+
+### While the additional filtering adds functionalilty, the formatting is an issue:
+
+
+### Some additional links to the sitings may be helpful to provide more information.
+
+
 The actual temperature differences between June and December are surprisingly not so vast as they may be in, for example, Chicago! But another important element to temperature when you are at the beach is percipitation.
 
 Two additional queries were run to show the rain for the same months of June and December:
