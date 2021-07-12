@@ -3,10 +3,11 @@ Module 11 Javascript
 
 ## UFOs Overview of Project:
 
-### Dana has already been provided with a webpage that dispalys an image with a header of 'The Truth is Out There'  W. Avy has asked to do some additional analysis from what has already been delivered: 
-Dana’s webpage and dynamic table are working as intended, but she’d like to provide a more in-depth analysis of UFO sightings by allowing users to filter for multiple criteria at the same time. In addition to the date, you’ll add table filters for the city, state, country, and shape.
+### Dana has already been provided with a webpage that dispalys an image with a header of 'The Truth is Out There' as well as a filter on date as shown below. She is very pleased and would like to add additional filters.  We will need to do some additional filtering as asked to do some additional analysis from what has already been delivered: 
 
-## Surf's Up Results:
+
+## Additional filters requested:
+Dana’s webpage and dynamic table are working as intended, but she’d like to provide a more in-depth analysis of UFO sightings by allowing users to filter for multiple criteria at the same time. In addition to the date, you’ll add table filters for the city, state, country, and shape.
 
 ### There was interesting information that was gathered that may need some further analysis to fully understand:
 
