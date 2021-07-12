@@ -8,7 +8,7 @@ The current webpage dispalys an image with a header of 'The Truth is Out There' 
 
 ![UFOs](./dateonly.png)
 
-## Results of the project are that additional filters requested from just the one date filter:
+## Results of the project are that additional filters requested:
 Dana’s webpage and dynamic table are working as intended, but she’d like to provide a more in-depth analysis of UFO sightings by allowing users to filter for multiple criteria at the same time. In addition to the date, Dana requested the following to be added to the table filters: city, state, country, and shape.
 
 ### These are all available filters - there are now 5 filters:
